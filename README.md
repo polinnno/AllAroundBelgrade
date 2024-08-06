@@ -6,13 +6,13 @@ AllAroundBelgrade is an informational system designed to help users discover and
 
 The home page serves as the entry point to the application, welcoming users and showcasing the main features of AllAroundBelgrade.
 
-![Home Page](./screenshots/1.%20home%20page.png)
+![Home Page](./Screenshots/1.%20home%20page.png)
 
 ## Footer
 
 The footer provides quick links to key sections of the site, an about section, and contact information.
 
-![Footer](./screenshots/2.%20footer.png)
+![Footer](./Screenshots/2.%20footer.png)
 
 ## Locations Page
 
