@@ -18,37 +18,37 @@ The footer provides quick links to key sections of the site, an about section, a
 
 Users can browse and search for different locations in Belgrade. The page includes a search bar, filter options, and a list of location cards that display essential information about each spot.
 
-![Locations Page](./screenshots/3.%20locations%20page.png)
+![Locations Page](./Screenshots/3.%20locations%20page.png)
 
 ## Location Card
 
 Each location card presents details such as the location's name, address, and category. Users can bookmark their favorite locations for easy access later.
 
-![Location Card](./screenshots/4.%20locaion%20card.png)
+![Location Card](./Screenshots/4.%20locaion%20card.png)
 
 ## Guides
 
 The guides section allows users to explore and search for various guides created for visiting locations in Belgrade. Users can also create new guides.
 
-![Guides](./screenshots/5.%20guides.png)
+![Guides](./Screenshots/5.%20guides.png)
 
 ## Guide Details Page
 
 This page provides a detailed view of a specific guide, listing all the locations included in it. Users can bookmark locations directly from this page.
 
-![Guide Details Page](./screenshots/6.%20guide-details%20page.png)
+![Guide Details Page](./Screenshots/6.%20guide-details%20page.png)
 
 ## Account Page
 
 The account page displays user information and offers options to create new guides and log out of the application. It also shows recommended locations based on user preferences.
 
-![Account Page](./screenshots/7.%20account%20page.png)
+![Account Page](./Screenshots/7.%20account%20page.png)
 
 ## Add Guide Page
 
 The add guide page enables users to create new guides by entering the guide name, description, and selecting locations to include.
 
-![Add Guide Page](./screenshots/8.%20add%20guide%20page.png)
+![Add Guide Page](./Screenshots/8.%20add%20guide%20page.png)
 
 ## Summary
 
